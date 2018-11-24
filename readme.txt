@@ -1,0 +1,1 @@
+This repo is set up to follow the instruction of Git-it.
